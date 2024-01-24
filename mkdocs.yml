@@ -1,0 +1,8 @@
+site_name: "nageshwer"
+site_description: "afdhndf"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
